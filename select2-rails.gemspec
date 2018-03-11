@@ -2,7 +2,7 @@
 require File.expand_path('../lib/select2-rails/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = 'select2-rails'
+  s.name        = 'select2-rails-latest'
   s.version     = Select2::Rails::VERSION
   s.authors     = %w[Mahmoud\ M.\ Abdel-Fattah Rogerio\ Medeiros Pedro\ Nascimento]
   s.email       = %w[mahmoud@abdelfattah.me argerim@gmail.com pnascimento@gmail.com]
